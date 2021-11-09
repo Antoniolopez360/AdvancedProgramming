@@ -1,0 +1,11 @@
+{
+  "name": "deviceexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "scripts": {
+    "test": "node class.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
